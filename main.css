@@ -1,0 +1,12 @@
+html {
+    background-color: #92c498;
+    width: 300px;
+    color: #180a36;
+    text-align: center;
+}
+
+#link {
+    color: #555;
+    float: right;
+    padding-bottom: 5px;
+}
