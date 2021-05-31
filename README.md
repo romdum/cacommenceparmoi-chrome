@@ -16,5 +16,5 @@ Dans votre navigateur Chrome, rendez-vous sur l'URL [chrome://extensions](chrome
 
 Pour mettre à jour les articles, exécuter la commande :
 ```
-wget https://cacommenceparmoi.org/action-sitemap.xml
+wget -q https://cacommenceparmoi.org/action-sitemap.xml -O action-sitemap.xml
 ```
