@@ -3346,15 +3346,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://cacommenceparmoi.org/action/cosmetiques-naturels/</loc>
-		<lastmod>2020-10-23T09:37:49+00:00</lastmod>
-		<image:image>
-			<image:loc>https://cacommenceparmoi.org/wp-content/uploads/2020/06/Capture-d%E2%80%99e%CC%81cran-2020-06-12-a%CC%80-10.33.36-min.jpg</image:loc>
-			<image:title><![CDATA[Je dis stop aux micro-plastiques dans les cosmétiques]]></image:title>
-			<image:caption><![CDATA[Je dis stop aux micro-plastiques dans les cosmétiques]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://cacommenceparmoi.org/action/vacances-bateau/</loc>
 		<lastmod>2020-10-23T09:37:55+00:00</lastmod>
 		<image:image>
@@ -3640,6 +3631,24 @@
 			<image:loc>https://cacommenceparmoi.org/wp-content/uploads/2021/06/Capture-d%E2%80%99e%CC%81cran-2021-06-23-a%CC%80-16.28.18-min.jpg</image:loc>
 			<image:title><![CDATA[J’organise un rendez-vous de la Fête des Possibles]]></image:title>
 			<image:caption><![CDATA[J’organise un rendez-vous de la Fête des Possibles]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cacommenceparmoi.org/action/je-soutiens-la-primaire-populaire/</loc>
+		<lastmod>2021-07-16T08:55:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cacommenceparmoi.org/wp-content/uploads/2021/07/Capture-d%E2%80%99e%CC%81cran-2021-07-16-a%CC%80-10.51.21-min.jpg</image:loc>
+			<image:title><![CDATA[Je soutiens la Primaire Populaire]]></image:title>
+			<image:caption><![CDATA[Je soutiens la Primaire Populaire]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cacommenceparmoi.org/action/cosmetiques-naturels/</loc>
+		<lastmod>2021-08-02T12:43:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cacommenceparmoi.org/wp-content/uploads/2020/06/Capture-d%E2%80%99e%CC%81cran-2020-06-12-a%CC%80-10.33.36-min.jpg</image:loc>
+			<image:title><![CDATA[Je dis stop aux micro-plastiques dans les cosmétiques]]></image:title>
+			<image:caption><![CDATA[Je dis stop aux micro-plastiques dans les cosmétiques]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
